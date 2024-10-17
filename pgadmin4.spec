@@ -7,7 +7,7 @@ Release:	1
 Summary:	Management tool for PostgreSQL
 Group:		Databases
 License:	Artistic
-URL:		http://www.pgadmin.org
+URL:		https://www.pgadmin.org
 Source0:	https://download.postgresql.org/pub/pgadmin3/%{name}/v1.0/source/%{name}-%{version}.tar.gz
 Source1:	%{name}.conf
 Source2:	%{name}.service.in
