@@ -14,6 +14,7 @@ Source2:	%{name}.service.in
 Source3:	%{name}.tmpfiles.d
 Source4:	%{name}.desktop.in
 
+BuildRequires:	make
 BuildRequires:	mesa-common-devel
 #BuildRequires:	gcc-c++
 Requires:	%{name}-web
